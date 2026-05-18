@@ -1,8 +1,10 @@
 {
-  "name": "annirem",
+  "name": "act-cfs_bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "ACT CSF student support Telegram bot for prayer, counselling, academic help, and coordinator contact.",
+  "main": "bot.js",
   "scripts": {
+    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -19,6 +21,5 @@
   "bugs": {
     "url": "https://github.com/Bonsa-Dereje/annirem/issues"
   },
-  "homepage": "https://github.com/Bonsa-Dereje/annirem#readme",
-  "description": ""
+  "homepage": "https://github.com/Bonsa-Dereje/annirem#readme"
 }
