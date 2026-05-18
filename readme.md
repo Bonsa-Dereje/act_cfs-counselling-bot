@@ -1,4 +1,4 @@
-# 🕊️ ACT CSF Bot
+#  ACT CSF Councelling Bot
 
 > A Telegram bot for student support — connecting people to prayer, counselling, academic help, and coordinators.
 
